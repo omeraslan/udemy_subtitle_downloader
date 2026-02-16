@@ -1,21 +1,21 @@
 // ==UserScript==
-// @name         Udemy Subtitle Downloader
-// @namespace    https://github.com/omeraslan
-// @version      1.0
-// @description  Auto-capture and download subtitle files from Udemy courses
-// @author       oaslan
-// @license      MIT
-// @copyright    2026, oaslan
-// @homepageURL  https://github.com/omeraslan/udemy_subtitle_downloader/
-// @supportURL   https://github.com/omeraslan/udemy_subtitle_downloader/issues
-// @match        https://www.udemy.com/course/*/learn/lecture/*
-// @icon         https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png
-// @grant        none
-// @run-at       document-end
+// @name        Udemy Subtitle Downloader
+// @namespace   https://github.com/omeraslan
+// @version     1.0
+// @description Auto-capture and download subtitle files from Udemy courses
+// @author      oaslan
+// @license     MIT
+// @copyright   2026, oaslan
+// @homepageURL https://github.com/omeraslan/udemy_subtitle_downloader/
+// @supportURL  https://github.com/omeraslan/udemy_subtitle_downloader/issues
+// @match       https://www.udemy.com/course/*/learn/lecture/*
+// @icon        https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png
+// @grant       none
+// @run-at      document-end
 // ==/UserScript==
 
 // ==OpenUserJS==
-// @author       oaslan
+// @author      oaslan
 // ==/OpenUserJS==
 
 (function () {
