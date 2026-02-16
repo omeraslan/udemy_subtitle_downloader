@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Udemy Subtitle Downloader
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/omeraslan
 // @version      1.0
 // @description  Auto-capture and download subtitle files from Udemy courses
 // @author       oaslan
 // @license      MIT
+// @copyright    2026, oaslan
 // @homepageURL  https://github.com/omeraslan/udemy_subtitle_downloader/
 // @supportURL   https://github.com/omeraslan/udemy_subtitle_downloader/issues
 // @match        https://www.udemy.com/course/*/learn/lecture/*
@@ -12,6 +13,10 @@
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
+
+// ==OpenUserJS==
+// @author       oaslan
+// ==/OpenUserJS==
 
 (function () {
   "use strict";
