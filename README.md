@@ -17,7 +17,7 @@ A Tampermonkey/Greasemonkey userscript that automatically captures and downloads
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Safari) or [Greasemonkey](https://www.greasespot.net/) (Firefox)
 2. Click the install link below or create a new script and paste the code
 
-[![Install](https://img.shields.io/badge/Install-Userscript-green)](https://greasyfork.org/scripts/YOUR_SCRIPT_ID)
+[![Install](https://img.shields.io/badge/Install-Userscript-green)]([https://greasyfork.org/scripts/566493-udemy-subtitle-downloader]
 
 ## Usage
 
